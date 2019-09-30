@@ -3,6 +3,7 @@
 Das ist ein Beispiel mit einigen Worten. Die Einbrüche werden automatisch durchgeführt.
 
 **Liste**
+<<<<<<< HEAD
  *VW
  *BMW
  *Mercedes
@@ -10,6 +11,13 @@ Das ist ein Beispiel mit einigen Worten. Die Einbrüche werden automatisch durch
  *Skoda
  *Ferrari
  *Lamborghini
+=======
+ * VW
+ * BMW
+ * Mercedes
+ * Renault
+ * Skoda
+>>>>>>> e06511a24611f13bd515acf40e3f48e5b6ccf7a5
  
 # Länder sortiert nach Einwohner
  1. Deutschland
