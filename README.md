@@ -7,6 +7,7 @@ Das ist ein Beispiel mit einigen Worten. Die Einbrüche werden automatisch durch
  *BMW
  *Mercedes
  *Renault
+ *Skoda
  
 # Länder sortiert nach Einwohner
  1. Deutschland
